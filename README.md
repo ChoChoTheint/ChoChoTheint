@@ -14,8 +14,7 @@
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChoChoTheint)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoChoTheint&show_icons=true&theme=tokyonight)
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100011989721018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100011989721018" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/choecho_e/?igshid=zguzmzm3nwjioq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/choecho_e/?igshid=zguzmzm3nwjioq%3d%3d" height="30" width="40" /></a>
