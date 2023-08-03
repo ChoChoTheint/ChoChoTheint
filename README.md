@@ -1,4 +1,4 @@
-![alt chochotheint_pic](http://url/to/https://github.com/ChoChoTheint/ChoChoTheint/blob/main/C2Z08608-1.jpg)
+![alt chochotheint_pic](http://url/to/ChoChoTheint/ChoChoTheint/blob/main/C2Z08608-1.jpg)
 
 <h1 align="center">Hi 👋, I'm Cho Cho Theint</h1>
 <h3 align="center">Junior Web Developer</h3>
