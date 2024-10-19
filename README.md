@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Cho Cho Theint</h1>
-<h3 align="center">Junior Web Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
-- 🌱 I’m currently learning **Laravel and C#**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChoChoTheint](https://github.com/ChoChoTheint)
 
-- 💬 Ask me about **laravel and C#**
+- 💬 Ask me about **C#**
 
 - 📫 How to reach me **chochotheint19@gmail.com**
 
